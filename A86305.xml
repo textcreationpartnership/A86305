@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Theeves, theeves, or, A relation of Sir Iohn Gell's proceedings in Darbyshire, in gathering up the rents of the lords and gentlemen of that county by pretended authority from the two Houses of Parliament.</title>
+            <author>Heylyn, Peter, 1600-1662.</author>
+         </titleStmt>
+         <extent>Approx. 23 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A86305</idno><idno type="EEBO-CITATION">99872890</idno>
+  <idno type="VID">155862</idno>
+  <idno type="EEBO-PROQUEST">2248516146</idno>
+  
+            <idno type="STC">Wing H1740</idno>
+            <idno type="STC">Thomason E100_13</idno>
+            <idno type="STC">ESTC R5739</idno>
+            <idno type="PROQUEST">99872890</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99872890e"/>
+            <note>(EEBO-TCP ; phase 2, no. A86305)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 155862)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 18:E100[13])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Theeves, theeves, or, A relation of Sir Iohn Gell's proceedings in Darbyshire, in gathering up the rents of the lords and gentlemen of that county by pretended authority from the two Houses of Parliament.</title>
+                  <author>Heylyn, Peter, 1600-1662.</author>
+               </titleStmt>
+               <extent>[2], 9, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>by H. Hall],</publisher>
+                  <pubPlace>[Oxford :</pubPlace>
+                  <date>Printed in the yeare M.DC.XLIII [1643]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from Madan.</note>
+                  <note>Annotation on Thomason copy: "May. 1st first at Oxon".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Gell, John, --  Sir, 1593-1671.</term>
+               <term type="geographic_name">Derbyshire (England) --  History --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-08 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:155862:1"/>
+            <p>Theeves, Theeves: OR, A RELATION OF Sir IOHN GELL'S proceedings in <hi>Darbyshire,</hi> in gathering up the Rents of the <hi>Lords</hi> and <hi>Gentlemen</hi> of that County by pretended authority from the two Houses of PARLIAMENT.</p>
+            <p>
+               <hi>Printed in the Yeare M.DC.XLIII.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="proceedings">
+            <pb facs="tcp:155862:2"/>
+            <pb n="1" facs="tcp:155862:2"/>
+            <head>
+               <hi>THEEVES THEEVES:</hi> OR, A Relation of Sir <hi>John Gell's</hi> proceed<g ref="char:EOLhyphen"/>ings in <hi>Derbyshire,</hi> in gathering up the Rents of the <hi>Lords</hi> and <hi>Gentlemen</hi> of that County.</head>
+            <p>
+               <seg rend="decorInit">I</seg>T was most happily observed by His Sacred Majestie, upon occasion of the <hi>Ordinance</hi> for the Twentieth part, that <hi>The same power which robbed His Subjects of the Twentieth part of their estates, had by that made a claime, and in<g ref="char:EOLhyphen"/>tituled it selfe to the other nineteene, when it should be thought fit to hasten the generall ruine:</hi> in which His Majestie hath proved but too true a Prophet. For when these great <hi>Assertors</hi> of the publique <hi>Li<g ref="char:EOLhyphen"/>bertie,</hi> had found some possible hopes to prevaile in that, amongst the wretched and infatuated people of the <hi>Citie</hi> of <hi>London,</hi> they forthwith flattered themselves into a beliefe, that they should finde as much obedience, and as pernitious instruments to effect their ends in the <hi>Country</hi> also. They practiced first upon the <hi>Citie,</hi> as anciently unskilfull <hi>Empericks</hi> did on their slaves and servants; not doubting if they thrived and prospered in that <hi>experiment,</hi> but the whole Kingdome shortly would become their <hi>Patient.</hi> And there<g ref="char:EOLhyphen"/>to they would goe no further at the first attempt then a <hi>twentieth part,</hi> which was conceived to be no pressing imposition: know<g ref="char:EOLhyphen"/>ing full well, that if the Subject could be brought to submit unto it, they did immediately devest themselves of that <hi>right</hi> and <hi>property,</hi> which by the wisedome and justice of former <hi>Parliaments</hi> was pro<g ref="char:EOLhyphen"/>vided for them; and that it would be no hard matter for the next new <hi>Ordinance</hi> to take all at once. He that is once so skilled in the
+<pb n="2" facs="tcp:155862:3"/> Art of gaming, as to play at <hi>Pluck-penny,</hi> will quickly come to <hi>Sweep-stake:</hi> and so it proved in the event. For what did follow hereupon but loane upon loane, and leavy after leavy, untill the summe of the executions amounted to two millions of money, as hath beene openly affirmed in the House of <hi>Commons:</hi> and after such a vast effusion of the Treasure of the Kingdome, a loane of 6000<seg rend="sup">l</seg> to be raised at once upon that Citie; a leavy of 4000<seg rend="sup">l</seg> a mo<g ref="char:EOLhyphen"/>neth to be raised for ever, if they sit so long; 8000<seg rend="sup">l</seg> a moneth im<g ref="char:EOLhyphen"/>posed to fortifie the Towne against their <hi>Soveraigne;</hi> collections under severall stiles to the same ill ends; and on refusall of the <hi>twentieth part</hi> so unjustly called for, the whole estate of many a rich and wealthy <hi>Citizen,</hi> forcibly taken from him, against Law and Ju<g ref="char:EOLhyphen"/>stice, under pretence of a <hi>distresse;</hi> and he himselfe committed to some common Goale, at <hi>Colchester, Yarmouth, Harwich, Rochester,</hi> or wheresoever else these offended powers, those <hi>laesa numina</hi> (for they are more then <hi>Kings</hi> already) have been pleased to send them. And at this instant a designe to lay an <hi>Excise</hi> on all the <hi>Wine</hi> and <hi>To<g ref="char:EOLhyphen"/>bacco</hi> to be sold in <hi>London,</hi> for speeding of the which, their <hi>Generall</hi> is expected to come shortly thither; that by the terrour of his Armes it may passe the easier: which if it take effect upon those commo<g ref="char:EOLhyphen"/>dities, and in the Citie of <hi>London</hi> onely for the present time, will quickly be extended to all kindes of <hi>Victuals;</hi> and finally obtruded upon all the Kingdome.</p>
+            <p>This tryall made upon the <hi>Citie,</hi> though they found more relu<g ref="char:EOLhyphen"/>ctance and resistance in it, then they had promised to themselves; their next designe is to attempt the like invasion on the whole bo<g ref="char:EOLhyphen"/>dy of the Realme. Accordingly an <hi>Ordinance</hi> is made by the Lords and Commons, <hi>for the speedy raising and levying of money,</hi> (that is to say, 150000<seg rend="sup">l</seg>
+               <hi>per mensem) for the maintaining of their Armies, to be assessed upon the Cities of</hi> London <hi>and</hi> Westminster, <hi>and every Coun<g ref="char:EOLhyphen"/>ty and Citie of the Kingdome of</hi> England <hi>and Dominion of</hi> Wales; <hi>Commissioners</hi> appointed to impose and collect the same, after the formes of severall Acts of <hi>Parliament</hi> made this present Session, proportions predetermined of for all the Counties and chiefe Townes, according to the platforme (never knowne before) of raising the 400000<seg rend="sup">l</seg> to discharge their debts; severall penalties en<g ref="char:EOLhyphen"/>joyned, and diverse extraordinary Acts of force and violence autho<g ref="char:EOLhyphen"/>rized thereby, to compell the Subject to yeild to so unreasonable
+<pb n="3" facs="tcp:155862:3"/> and unjust a Taxe; and pretty slights devised to betray those men into their power, whom they could neither terrifie by threats, nor compell by force. Of this last kinde one of the finest Artifices was to make themselves the generall <hi>Lardlords</hi> of the Common-wealth, and bring the <hi>Tenants, Bayliffes,</hi> and other Officers of the <hi>English</hi> Gentry, to be responsall unto them for their Rents and Duties: it being declared in the said <hi>Ordinance, That the Collectors of this Taxe should have power respectively to enquire of any summe or summes of money due, or to be due to any person so assessed, (which shall refuse to pay the said monethly rates) from any person or persons, for any Rents, Tithes, Goods, or Debts, or any other thing or cause whatso<g ref="char:EOLhyphen"/>ever; and to compound for any of the said Rents, Tithes, Goods, Debts, due to the person so assessed, respectively as afore-said, with any person or persons, by whom the said Rents, Tithes, Goods, Debts, or other things due unto the said person so assessed, respectively ought to be paid and accompted for; as also to give full discharge for the money by them so received, upon composition or otherwise; which discharge shall be good and effectuall to all intents and purposes.</hi> So farre the Letter of the <hi>Ordinance.</hi>
+            </p>
+            <p>And to say truth, it stood with Reason and with Justice both that it should be so, that they who had released themselves of all subjecti<g ref="char:EOLhyphen"/>on to their Soveraigne Lord, seized on His <hi>Revenues,</hi> prohibited the serving in of His accustomed <hi>Provisions,</hi> applied the ordinary <hi>Cu<g ref="char:EOLhyphen"/>stomes</hi> imposed on Merchandize to their owne proper use, and stop<g ref="char:EOLhyphen"/>ped all wayes, as much at least as in them was, by which His Maje<g ref="char:EOLhyphen"/>stie might subsist in the condition of a private Gentleman, should al<g ref="char:EOLhyphen"/>so free and <hi>manumit</hi> inferiour persons from all manner of <hi>service</hi> to their Lords, appropriate unto themselves the whole <hi>Revenue</hi> of the Kingdome, and in conclusion breake in sunder as well the bonds of <hi>Oeconomicall</hi> as of <hi>Politicall</hi> obedience. For though it was concei<g ref="char:EOLhyphen"/>ved at first by some moderate men, who would faine nourish <hi>confi<g ref="char:EOLhyphen"/>dence</hi> where there was no <hi>hope;</hi> that this was onely done to content the <hi>Citizens</hi> in making them believe that all the rest of the King<g ref="char:EOLhyphen"/>dome should beare the burden of the Warre as well as they; and that it was not to be put in execution, but where the people were already inured to bondage: yet this was but a <hi>sickmans</hi> hope, which usually layeth hold on any thing that comes next to hand; it being
+<pb n="4" facs="tcp:155862:4"/> resolved from the beginning to exercise this <hi>prodigie of Arbitrary power and tyranny</hi> (as it is called most justly by His sacred Majesty) in all parts and places, where either their <hi>partie</hi> was so servill as wil<g ref="char:EOLhyphen"/>lingly to yeeld unto it, or their <hi>authoritie</hi> so strong as to force obe<g ref="char:EOLhyphen"/>dience, which being perceived by His Majesty he caused a <hi>Procla<g ref="char:EOLhyphen"/>mation</hi> to be published, dated <hi>March</hi> the 8. <hi>forbidding all assessing, collections, and paying of the twentieth part, and of all weekly taxes by colour of any Orders or Ordinance of one or both Houses of Parlia<g ref="char:EOLhyphen"/>ment,</hi> under such severall paines and penalties to the <hi>Assessors, Colle<g ref="char:EOLhyphen"/>ctors,</hi> and such as shall <hi>assist</hi> therein, as are there expressed. His Majestie had good reason to expect of the <hi>English</hi> Subjects, who have beene anciently so zealous of their native <hi>Liberties,</hi> that wil<g ref="char:EOLhyphen"/>lingly they would not helpe to betray each other to a shamefull <hi>ser<g ref="char:EOLhyphen"/>vitude:</hi> especially when as His Majesty appeared so visibly in de<g ref="char:EOLhyphen"/>fence thereof, not onely by his <hi>Declarations</hi> and <hi>Proclamations</hi> which might be valued as a cheape and easie favour, but by adven<g ref="char:EOLhyphen"/>turing his owne life and fortunes to preserve their Priviledges.</p>
+            <p>But notwithstanding all his care of his sacred Majesty to Pro<g ref="char:EOLhyphen"/>tect his Subjects, &amp; the presumptions that he had to find His people answerably mindefull of their native property: there want not many in most <hi>Counties,</hi> (in all <hi>Counties</hi> some) who feare not to bee looked upon as the betrayers of the <hi>Lawes</hi> and <hi>Liberties</hi> they were born unto, so they may bring about those ungodly ends, for which they have engaged both their faith, and fortunes. And amongst these I meete with none more practicall then <hi>Gell</hi> of <hi>Darbyshire,</hi> who being notoriously guilty of high Treason against His Majesty, and publikely proscribed by <hi>Proclamation,</hi> is come at last to that condition, that he hath little reason to hope for better, or feare to fall into a worse estate, then he now is under. In this regard, he with the rest of his <hi>Accomplices,</hi> Pretending or having a Commission from both the Houses of <hi>Parliament,</hi> hath undertaken to discharge this dreadfull <hi>Ordinance,</hi> in all those parts and places where he hath authority, or can procure authority by his power and Armes: especially on those well-affected Gentlemen and others of more eminent note, who have the courage not to yeeld to so wilde a <hi>Ty<g ref="char:EOLhyphen"/>ranny;</hi> or so much loyalty and common prudence, as to assist their <hi>Soveraigne</hi> in their owne defence. And to this end he sends out
+<pb n="5" facs="tcp:155862:4"/> warrants unto the <hi>Constables</hi> of each <hi>hundred</hi> within the veirge of his <hi>Commission,</hi> with notice to the Tenants of all such persons, whose names he anexed in a <hi>schedule,</hi> to appeare before him and his <hi>Associates</hi> at a place appointed; and to compound with them for their rents, promising to abate the fourth part, and give acquittance for the whole; and with these subtle Acts and promises, mingling such powerfull threates and terrours, as were conceived to have most influence upon <hi>Vulgar</hi> spirits. One of which warrants com<g ref="char:EOLhyphen"/>ing by good luck to my hands, I have here transcribed, that all the Subjects of this Kingdome may perceive at last (if willfully they have not put out their owne eyes) how neare they are to that gene<g ref="char:EOLhyphen"/>rall ruine of their <hi>Rights</hi> and <hi>Liberties,</hi> to which they have betray<g ref="char:EOLhyphen"/>ed themselves by their <hi>blinde</hi> obedience,</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="letter">
+                        <head>To the Constable of <hi>Ackmanton.</hi>
+                        </head>
+                        <p>
+                           <q>Whereas these unnaturall warres at this present, are fomented &amp; maintained by <hi>Papists</hi> and <hi>Malignants,</hi> to the utter undoing of ma<g ref="char:EOLhyphen"/>ny honest men, and the ruine of the whole common-wealth: for the better preventing of which miserie, and to do the best wee can to put a speedy end to these destractions, according to the trust reposed in us by the <hi>Ordinance</hi> of <hi>Parliament,</hi> we thinke fit and do command you that presently upon receipt hereof, you give notice to all the <hi>Tenants</hi> within your <hi>Constablerie,</hi> if any of the Persons named in a <hi>Schedule</hi> herewith sent you, that henceforward they pay all their rents due to any of those persons or to any other that contribute, or beare Armes against the <hi>Par<g ref="char:EOLhyphen"/>liament,</hi> to the <hi>Committee</hi> here at <hi>Darby,</hi> or to such other Person or Persons as the said <hi>Committee</hi> shall nominate. And we all pro<g ref="char:EOLhyphen"/>mise that such of those <hi>Tenants</hi> that shew their forwardnesse to bring in their <hi>Rents</hi> to the <hi>Committee</hi> at <hi>Darby</hi> by our <hi>Lady-day</hi> next, or within four dayes afterwards, shall have a discharge a<g ref="char:EOLhyphen"/>gainst their <hi>Landlords</hi> of the whole rent, and shall have a fourth part abated them; And those <hi>Tenants</hi> that are refractorie and come not willingly to us, shall not onely be forced to pay their whole rents, but also shall be proceeded against as <hi>Malignant</hi> Persons, and such as endeavour the continuance of these troubles.</q>
+                        </p>
+                        <closer>
+                           <dateline>Given under our hands, <date>
+                                 <hi>March.</hi> 1642.</date>
+                           </dateline>
+                        </closer>
+                     </div>
+                     <div type="postscript">
+                        <pb n="6" facs="tcp:155862:5"/>
+                        <head>Post-script.</head>
+                        <p>
+                           <q>You may let such of these <hi>Tenants</hi> know that if they cannot procure the whole rents so soone as is appointed, yet if they bring part to the <hi>Committee</hi> at <hi>Darby</hi> at that time, then they shall have further time for the residue, and such abatement as the <hi>Committee</hi> and they shall agree of.</q>
+                        </p>
+                        <closer>
+                           <signed>signed.
+<list>
+                                 <item>
+                                    <hi>Iohn Gell.</hi>
+                                 </item>
+                                 <item>
+                                    <hi>Tho. Gell.</hi>
+                                 </item>
+                                 <item>
+                                    <hi>Iohn Gresley.</hi>
+                                 </item>
+                                 <item>
+                                    <hi>Matt. Hallowes.</hi>
+                                 </item>
+                              </list>
+                           </signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>Nor were the Persons whose estates were thus disposed of, of any ordinarie ranke and quality, such upon whom <hi>experiments</hi> of this dangerous nature, might be tried most safely: but the most choyse and eminent men both of <hi>Nobilitie</hi> and <hi>Gentry</hi> in all that County, as you intelligent reader, may perceive by their very name, being these that follow in the <hi>schedule.</hi>
+            </p>
+            <list>
+               <item>
+                  <hi>The Earle of Newcastle.</hi>
+               </item>
+               <item>
+                  <hi>The Earle of Devonshire.</hi>
+               </item>
+               <item>
+                  <hi>The Lord Maltravers.</hi>
+               </item>
+               <item>
+                  <hi>Sr. Andrew Kniveton.</hi>
+               </item>
+               <item>
+                  <hi>Sr Wil. Savil.</hi>
+               </item>
+               <item>
+                  <hi>Sr. Ioh. Harper of Caulk.</hi>
+               </item>
+               <item>
+                  <hi>Sr. Io. Fitz. Herb. of Tissington.</hi>
+               </item>
+               <item>
+                  <hi>Mr. Barnesly.</hi>
+               </item>
+               <item>
+                  <hi>Mr. Iohn Bullock.</hi>
+               </item>
+               <item>
+                  <hi>Mr. Rowland Eyre.</hi>
+               </item>
+               <item>
+                  <hi>Mr. Poole of Spinkehill.</hi>
+               </item>
+               <item>
+                  <hi>Mr. Pusey.</hi>
+               </item>
+               <item>
+                  <hi>Mr. Humlock.</hi>
+               </item>
+               <item>
+                  <hi>Mr. Will. Millard.</hi>
+               </item>
+               <item>
+                  <hi>Mr. Hen. Gilbert.</hi>
+               </item>
+               <item>
+                  <hi>Mr. Iohn Cuffe.</hi>
+               </item>
+               <item>
+                  <hi>Mr. Francis Cavendish.</hi>
+               </item>
+               <item>
+                  <hi>Mr. Iackson.</hi>
+               </item>
+               <item>
+                  <hi>The Earle of Shrewsbury.</hi>
+               </item>
+               <item>
+                  <hi>The Earle of Chesterfield.</hi>
+               </item>
+               <item>
+                  <hi>Mr. Henry Hastings.</hi>
+               </item>
+               <item>
+                  <hi>Sr. Edward Moseley.</hi>
+               </item>
+               <item>
+                  <hi>Sr. Ioh. Harper of Swarstone.</hi>
+               </item>
+               <item>
+                  <hi>Sr. Io. Fitz-Herbert of Norbury.</hi>
+               </item>
+               <item>
+                  <hi>Mr. Hen. Merry.</hi>
+               </item>
+               <item>
+                  <hi>Mr. Iohn Merry.</hi>
+               </item>
+               <item>
+                  <hi>Mr. Powtherell.</hi>
+               </item>
+               <item>
+                  <hi>Mr: Iohn Fretchwell.</hi>
+               </item>
+               <item>
+                  <hi>Mr. Iohn Shawcrosse.</hi>
+               </item>
+               <item>
+                  <hi>Mr. Iohn Byram.</hi>
+               </item>
+               <item>
+                  <hi>Mr. Stanford.</hi>
+               </item>
+               <item>
+                  <hi>Mr. Aston Cockaine.</hi>
+               </item>
+               <item>
+                  <hi>Mr. Edw. Loe.</hi>
+               </item>
+               <item>
+                  <hi>Mr. Will. Stanhope.</hi>
+               </item>
+               <item>
+                  <hi>Mr. Eltoft.</hi>
+               </item>
+               <item>
+                  <hi>Mr. Burridge.</hi>
+               </item>
+               <pb n="7" facs="tcp:155862:5"/>
+               <item>
+                  <hi>Mr. Christopher Eoe.</hi>
+               </item>
+               <item>
+                  <hi>Mr. Howson.</hi>
+               </item>
+               <item>
+                  <hi>Mr. Savill of Backwell.</hi>
+               </item>
+               <item>
+                  <hi>Mr. Th. Bagshaw of Ridge.</hi>
+               </item>
+               <item>
+                  <hi>Mr. Nic. Brown of marsh.</hi>
+               </item>
+               <item>
+                  <hi>Mr. Richard Cooke.</hi>
+               </item>
+               <item>
+                  <hi>Mr. Sidenham.</hi>
+               </item>
+               <item>
+                  <hi>Mr. Iohn Pale.</hi>
+               </item>
+               <item>
+                  <hi>Mr. Boden of Boden.</hi>
+               </item>
+               <item>
+                  <hi>Mr, Rich. Carrier.</hi>
+               </item>
+            </list>
+            <p>He must be needs abused to an infinite dulnesse, who findes not sensibly how utterly destructive these proceedings are of the <hi>rights</hi> and <hi>Liberties</hi> of the <hi>English</hi> Subject; when once the <hi>Tenant</hi> is se<g ref="char:EOLhyphen"/>duced to deceive his <hi>Landlord,</hi> to play the <hi>knave</hi> by the authority of <hi>Parliament,</hi> and to be tempted to it by so faire a baite, as the a<g ref="char:EOLhyphen"/>baitement of his rent in so large a measure; which doubtlesse is prevailing <hi>Oratorie</hi> with most country people: needs must he be extremely stuped, who seeth not what poore and groundlesse hopes the lower <hi>shrubs</hi> may have to avoyd the blowe; when once the Axe is laid unto the Root of these goodly <hi>Cedars.</hi> For howso<g ref="char:EOLhyphen"/>ever most if not all of these whose names we meet with in that <hi>sche<g ref="char:EOLhyphen"/>dule,</hi> may be comprehended in the stile of <hi>malignants</hi> and <hi>delin<g ref="char:EOLhyphen"/>quents</hi> (termes of no signification in the Lawes of <hi>England</hi>) as they are most commonly; yet who sees not, how easily that man may be called <hi>malignant,</hi> or Voted up for a <hi>delinquent,</hi> whose large <hi>reve<g ref="char:EOLhyphen"/>nues</hi> may invite them so to stile the owner, in hope to benefit them<g ref="char:EOLhyphen"/>selves by the confiscation. Do we not see, that to be an <hi>honest man</hi> is to be a <hi>Malignant,</hi> when those who guided by the rules of com<g ref="char:EOLhyphen"/>mon <hi>honesty,</hi> make <hi>conscience</hi> of paying their Rents unto any other then their rightfull <hi>Landlords,</hi> are presently declared to be <hi>Malig<g ref="char:EOLhyphen"/>nants,</hi> and threatned in <hi>Gell's</hi> Warrant produced before, to be pro<g ref="char:EOLhyphen"/>ceeded against as <hi>Malignant Persons?</hi> And if that <hi>common honesty</hi> be thought sufficient (as it seemes to be) to make men <hi>Malignants;</hi> thinke we that <hi>loyaltie,</hi> being a duty of more excellent and more publike nature, will not as easily be found sufficient to make men <hi>Delinquents?</hi> If so, as so assuredly it is, then let us seriously consi<g ref="char:EOLhyphen"/>der to what degree of <hi>tamenesse</hi> we have brought our selves, when persons of such desperate fortunes (as those who are imployed most commonly in these guilty offices) are furnished with a power to re<g ref="char:EOLhyphen"/>ceive our Rents, compound for our Debts, dispose of our Estates, and fell our Goods: and finally to undoe those poore honest men,
+<pb n="8" facs="tcp:155862:6"/> who shall not readily betray their <hi>Masters,</hi> or put a cheat upon their <hi>Landlords. Quid Domini facient, audent cum talia Fures?</hi> If <hi>Gell</hi> and such as he have this power upon us, 'tis time to give up all to these awfull hands, the <hi>little finger</hi> of the which is grown <hi>heavier</hi> to us, then the <hi>loynes</hi> of all the Kings that have reigned in <hi>England,</hi> were on our <hi>Progenitors.</hi> And yet so tender would they faine be thought of the Subjects <hi>liberties,</hi> that when their Generall had sent out a warrant for raising 52 l. out of the Towne of <hi>Richmond,</hi> to<g ref="char:EOLhyphen"/>ward the payment of his <hi>Souldiers</hi> quartered thereabouts; it was complained of, and condemned in the House of <hi>Commons,</hi> as being destructive of the peoples propertie, by which it seemes to be a<g ref="char:EOLhyphen"/>gainst the Priviledge of <hi>Parliament,</hi> that any but themselves should contribute to the ruine of the Common-Wealth.</p>
+            <p>Nor let them thinke, who hitherto have beene the instruments of this wretched servitude, or have beene wrought upon so farre as to contribute Armes and Money to their owne undoing; that they live in <hi>Goshen,</hi> and that not one of all the <hi>Plagues</hi> which afflict their <hi>neighbours,</hi> shall come neare their <hi>dwellings.</hi> The frequent plunde<g ref="char:EOLhyphen"/>rings of their friends, as well as of such others as affect them not; and Master <hi>Pyms</hi> defence of <hi>Long</hi> on the like occasion, that <hi>many things are to borne with, if they conduce unto the great and necessary affaires of the Common-wealth;</hi> shewes evidently what their friends must looke for, when they have served their turne upon their enemies. And that will prove in fine such a churlish curtesie, as <hi>Polyphemus</hi> promised to his loved <hi>Ʋlysses;</hi> which was to keepe him till the last, and not to eate him till he had devoured all his fellowes. With how much better hopes of successe and fortune, may they permit themselves to be <hi>disabused,</hi> resume the use of their owne <hi>sences,</hi> and not give up their <hi>intellectuals,</hi> nay their very <hi>soules,</hi> to the lusts of those, who all this while have held them captive, and shortly mean to make them follow their <hi>triumphant chariots.</hi> With how much fairer possibility to enjoy their <hi>rights,</hi> may they unite both hearts &amp; hands to defend His Majesty, considering that by so doing they de<g ref="char:EOLhyphen"/>fend themselves: and rather choose to give his Majesty <hi>nineteen</hi> parts to preserve the <hi>twentieth,</hi> though tis our hope that we shall never be reduced unto those extremities; then by so giving up the <hi>twentieth</hi> part, or indeed any part at all to loose all the rest, which of
+<pb n="9" facs="tcp:155862:6"/> all likelyhood will follow after, if not timely remedied. I ad no more, but that if these considerations and examples prevaile not on us, and that we do not somewhat speedily to assert our <hi>liberties,</hi> the blessing of <hi>Issachar</hi> will fall heavy like a curse upon us, and we of this brave <hi>free-borne</hi> nation, which heretofore hath beene the won<g ref="char:EOLhyphen"/>der, as it was the envy of the <hi>Christian</hi> world, will come to be the <hi>strong Asse</hi> which the Scriptures speak of, <hi>crowching between two bur<g ref="char:EOLhyphen"/>thens: strong</hi> onely in our patience of induring pressures, and <hi>crow<g ref="char:EOLhyphen"/>ching</hi> to so poore a degree of slavery, as to be brought to <hi>kisse the rod,</hi> wherewith all the scourge us. Which as it is the greatest infamie, the severest bondage that can be possibly imposed on men borne to servitude; so is it farre more odious and unsufferable to men of judgements and courage, then the sharpest death.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
